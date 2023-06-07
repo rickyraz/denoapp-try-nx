@@ -1,0 +1,14 @@
+{
+  "name": "@denoapp-try-nx/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "@nx/deno": "16.3.0"
+  },
+  "devDependencies": {
+    "@nx/workspace": "16.3.2",
+    "nx": "16.3.2"
+  }
+}
