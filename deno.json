@@ -1,9 +1,9 @@
 {
   "importMap": "import_map.json",
   "tasks": {
-    "start": "npx nx serve",
-    "lint": "npx nx lint",
-    "test": "npx nx test",
-    "build": "npx nx build"
+    "start": "pnpm dlx nx serve",
+    "lint": "pnpm dlx nx lint",
+    "test": "pnpm dlx nx test",
+    "build": "pnpm dlx nx build"
   }
 }
